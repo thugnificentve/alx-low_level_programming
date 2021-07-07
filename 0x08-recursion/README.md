@@ -1,1 +1,1 @@
-0-puts_recursion.c  function that prints a string, followed by a new line.
+Recursion in C. This project takes a look into concepts under recursion and its implementation. All files are written in C.
