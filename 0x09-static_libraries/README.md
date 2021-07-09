@@ -1,0 +1,1 @@
+libholberton.a creates  the static library libholberton.a containing specified functons.
