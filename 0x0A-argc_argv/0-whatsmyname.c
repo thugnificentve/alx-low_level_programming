@@ -3,13 +3,15 @@
 /*
  *program that prints its name
  *returns 0
+ *main contains argc and argv functions
  */
 int main(int argc, char *argv[])
 {
-  int i;
-  for (i = 0; i < argc; i++)
-    {
-      printf("%s\n", argv[0]);
-    }
-  return (0);
+int i;
+
+for (i = 0; i < argc; i++)
+{
+printf("%s\n", argv[0]);
+}
+return (0);
 }
